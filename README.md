@@ -16,6 +16,10 @@ A comprehensive IoT-based smart parking solution that combines hardware automati
   <img src="assets/screens/screen6.jpg" width="200" alt="Payment">
   <img src="assets/screens/screen7.jpg" width="200" alt="Profile">
   <img src="assets/screens/screen8.jpg" width="200" alt="About Us">
+  <img src="assets/screens/screen9.jpg" width="200" alt="Screen 9">
+  <img src="assets/screens/screen10.jpg" width="200" alt="Screen 10">
+  <img src="assets/screens/screen11.jpg" width="200" alt="Screen 11">
+  <img src="assets/screens/screen12.jpg" width="200" alt="Screen 12">
 </div>
 
 ### Hardware Setup
